@@ -14,3 +14,11 @@ I was motivated to start this project despite my busy schedules because of the f
 
 Lastly, if you can still poop in your toilet without being spied, then you must be able to send those private messages without being monitored! Howbeit, this project is not meant to be used for illegal purposes or infringe on the freedom of others. 
 
+
+# Features
+
+1. Realtime private and Anonymous messages.
+2. Uncensored chats.
+3. No IP logging.
+4. No Message Logging.
+5. Chat with AI.
